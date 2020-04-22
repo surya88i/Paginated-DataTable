@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:footer/FavoritePage.dart';
 import 'orderPage.dart';
-
+import 'package:footer/profilePage.dart';
 class MyHomePage extends StatefulWidget {
   @override
   _MyHomePageState createState() => _MyHomePageState();
