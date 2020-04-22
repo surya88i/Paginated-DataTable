@@ -184,16 +184,6 @@ class _HomePageState extends State<HomePage> {
     });
   }
 }
-
-
-
-class ProfilePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Container();
-  }
-}
-
 class User {
   String firstname;
   String lastname;
